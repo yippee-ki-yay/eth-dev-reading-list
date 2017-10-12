@@ -2,7 +2,10 @@
 A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack
 
 ## Tutorials (begginer friendly)
-  1. [Truffle first dApp tutorial](http://truffleframework.com/tutorials/pet-shop)
+  1. [Hello world - greeter contract](https://ethereum.org/greeter)
+  2. [Truffle first dApp tutorial](http://truffleframework.com/tutorials/pet-shop)
+  3. [Smart contracts for noobs](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
+  4. [The Hitchhiker’s Guide to Smart Contracts in Ethereum](The Hitchhiker’s Guide to Smart Contracts in Ethereum)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -19,15 +22,36 @@ A list of links to articles, tutorials and papers that are helpful for people de
   12. [Guide how to audit solidity contracts](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
 
 ## General
-  1. [When to use revert/require/assert](https://media.consensys.net/when-to-use-revert-assert-and-require-in-solidity-61fb2c0e5a57)
-  2. [Introduction to events and logs](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
+  1. [Ethereum wiki - white paper, yellow paper and just pure gold information about ethereum](https://github.com/ethereum/wiki/wiki)
+  2. [Ethereum docs](http://www.ethdocs.org/en/latest/)
+  3. [When to use revert/require/assert](https://media.consensys.net/when-to-use-revert-assert-and-require-in-solidity-61fb2c0e5a57)
+  4. [Introduction to events and logs](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
+  5. [Payment channel with 50 lines of code](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc)
+  6. [Reducing eth gas arrays -> bytes](https://medium.com/@billyrennekamp/reducing-eth-gas-23x-by-converting-arrays-to-bytes-ccf3b46daea5)
+  7. [Understanding oracles](https://blog.oraclize.it/understanding-oracles-99055c9c9f7b)
+  8. [Building an Oracle](https://medium.com/@mustwin/building-an-oracle-for-an-ethereum-contract-6096d3e39551)
+  9. [Oraclize docs](https://docs.oraclize.it/)
+  10. [Hash table attacks and how does mapping work](https://hackernoon.com/are-ethereum-contracts-vulnerable-to-hash-table-poisoning-attacks-a4d9241e16c4)
   
 ## Improvements
   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
+  2. [Plasma explained in 10min](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
+  3. [Raiden 101](https://raiden.network/101.html)
   
 ## Ens
   1. [Devs guide to ENS](https://medium.com/the-ethereum-name-service/a-developers-guide-to-ens-concepts-7004eea8a073)
+  2. [Ens docs](https://docs.ens.domains/en/latest/)
+  3. [How to buy an ENS domain](https://medium.com/the-ethereum-name-service/a-beginners-guide-to-buying-an-ens-domain-3ccac2bdc770)
 
 ## Ipfs
   1. [Introduction to ipfs, overview and technical stuff](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
+  2. [Short 10min high level overview of IPFS](https://www.youtube.com/watch?v=BA2rHlbB5i0)
+  3. [Distributed apps with ipfs 40min lecture by creator](https://www.youtube.com/watch?v=jONZtXMu03w)
+  
+## Tools
+  1. [Remix online IDE](https://remix.ethereum.org/)
+  2. [Metamask - browser plugin to conect with ethereum](https://metamask.io/)
+  2. [Truffle dev framework testing and running dApps](http://truffleframework.com/)
+  3. [Embark framework to develop and test dApps](https://github.com/iurimatias/embark-framework)
+  
 
