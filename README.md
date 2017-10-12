@@ -5,7 +5,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   1. [Hello world - greeter contract](https://ethereum.org/greeter)
   2. [Truffle first dApp tutorial](http://truffleframework.com/tutorials/pet-shop)
   3. [Smart contracts for noobs](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
-  4. [The Hitchhiker’s Guide to Smart Contracts in Ethereum](The Hitchhiker’s Guide to Smart Contracts in Ethereum)
+  4. [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
