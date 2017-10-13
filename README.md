@@ -7,6 +7,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   3. [Smart contracts for noobs](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
   4. [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
   5. [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+  6. [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -34,6 +35,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   8. [Building an Oracle](https://medium.com/@mustwin/building-an-oracle-for-an-ethereum-contract-6096d3e39551)
   9. [Oraclize docs](https://docs.oraclize.it/)
   10. [Hash table attacks and how does mapping work](https://hackernoon.com/are-ethereum-contracts-vulnerable-to-hash-table-poisoning-attacks-a4d9241e16c4)
+  11. [What it takes to create a successful ICO?](https://medium.com/@merunasgrincalaitis/what-it-takes-to-create-a-successful-ico-how-expensive-it-is-your-complete-guide-35912722351e)
   
 ## Improvements
   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
