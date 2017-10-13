@@ -1,11 +1,12 @@
 # eth-dev-reading-list
 A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack
 
-## Tutorials (begginer friendly)
+## Tutorials (beginner friendly)
   1. [Hello world - greeter contract](https://ethereum.org/greeter)
   2. [Truffle first dApp tutorial](http://truffleframework.com/tutorials/pet-shop)
   3. [Smart contracts for noobs](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
   4. [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+  5. [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -24,6 +25,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
 ## General
   1. [Ethereum wiki - white paper, yellow paper and just pure gold information about ethereum](https://github.com/ethereum/wiki/wiki)
   2. [Ethereum docs](http://www.ethdocs.org/en/latest/)
+  3. [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
   3. [When to use revert/require/assert](https://media.consensys.net/when-to-use-revert-assert-and-require-in-solidity-61fb2c0e5a57)
   4. [Introduction to events and logs](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
   5. [Payment channel with 50 lines of code](https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc)
