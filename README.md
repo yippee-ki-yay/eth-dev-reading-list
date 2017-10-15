@@ -40,6 +40,8 @@ A list of links to articles, tutorials and papers that are helpful for people de
   9. [Oraclize docs](https://docs.oraclize.it/)
   10. [Hash table attacks and how does mapping work](https://hackernoon.com/are-ethereum-contracts-vulnerable-to-hash-table-poisoning-attacks-a4d9241e16c4)
   11. [What it takes to create a successful ICO?](https://medium.com/@merunasgrincalaitis/what-it-takes-to-create-a-successful-ico-how-expensive-it-is-your-complete-guide-35912722351e)
+  12. [The Faults and Shortcomings of the EVM](http://earlz.net/view/2017/08/13/0451/the-faults-and-shortcomings-of-the-evm)
+  13. [Economics of Fees and Gas](http://earlz.net/view/2017/10/02/1550/economics-of-fees-and-gas)
   
 ## Improvements
   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
