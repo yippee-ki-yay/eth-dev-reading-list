@@ -26,6 +26,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   10. [King of the ether secuirty checklist](https://www.kingoftheether.com/contract-safety-checklist.html)
   11. [King of the ether exploit](http://www.kingoftheether.com/postmortem.html)
   12. [Guide how to audit solidity contracts](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
+  13. [Attacks on ethereum contracts - 30min video and detailed paper](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 
 ## General
   1. [Ethereum wiki - white paper, yellow paper and just pure gold information about ethereum](https://github.com/ethereum/wiki/wiki)
