@@ -43,11 +43,13 @@ A list of links to articles, tutorials and papers that are helpful for people de
   11. [What it takes to create a successful ICO?](https://medium.com/@merunasgrincalaitis/what-it-takes-to-create-a-successful-ico-how-expensive-it-is-your-complete-guide-35912722351e)
   12. [The Faults and Shortcomings of the EVM](http://earlz.net/view/2017/08/13/0451/the-faults-and-shortcomings-of-the-evm)
   13. [Economics of Fees and Gas](http://earlz.net/view/2017/10/02/1550/economics-of-fees-and-gas)
+  14. [Spificator a usability pattern for dapps](https://blog.ambrosus.com/spificator-a-usability-pattern-for-dapps-1ae52de94ec1)
   
 ## Improvements
   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
   2. [Plasma explained in 10min](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
   3. [Raiden 101](https://raiden.network/101.html)
+  4. [Smart Contracts on Plasma - Christian Reitwiessner (65 min. presentation)](https://www.youtube.com/watch?v=KzyqzEtEc3I)
   
 ## Ens
   1. [Devs guide to ENS](https://medium.com/the-ethereum-name-service/a-developers-guide-to-ens-concepts-7004eea8a073)
