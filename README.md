@@ -12,6 +12,8 @@ A list of links to articles, tutorials and papers that are helpful for people de
   8. [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
   9. [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
   10. [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
+  11. [Solidity workshop - detailed resource](https://github.com/androlo/solidity-workshop)
+  12. [Youtube channel - detailed course on solidity language](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -44,6 +46,9 @@ A list of links to articles, tutorials and papers that are helpful for people de
   12. [The Faults and Shortcomings of the EVM](http://earlz.net/view/2017/08/13/0451/the-faults-and-shortcomings-of-the-evm)
   13. [Economics of Fees and Gas](http://earlz.net/view/2017/10/02/1550/economics-of-fees-and-gas)
   14. [Spificator a usability pattern for dapps](https://blog.ambrosus.com/spificator-a-usability-pattern-for-dapps-1ae52de94ec1)
+  15. [Diving into EVM - series of articles](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
+  16. [Basic of solidity opcode and bytecode](https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2)
+  17. [Upgradable smart contract](https://medium.com/aigang-network/upgradable-smart-contracts-what-weve-learned-at-aigang-b181d3d4b668)
   
 ## Improvements
   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
@@ -64,7 +69,13 @@ A list of links to articles, tutorials and papers that are helpful for people de
 ## Tools
   1. [Remix online IDE](https://remix.ethereum.org/)
   2. [Metamask - browser plugin to conect with ethereum](https://metamask.io/)
-  2. [Truffle dev framework testing and running dApps](http://truffleframework.com/)
-  3. [Embark framework to develop and test dApps](https://github.com/iurimatias/embark-framework)
+  3. [Truffle dev framework testing and running dApps](http://truffleframework.com/)
+  4. [Embark framework to develop and test dApps](https://github.com/iurimatias/embark-framework)
+  5. [HEVM - emv for debugging](https://github.com/dapphub/hevm)
+  6. [DAPP - framework for testing and building dApps (lightweight)](https://github.com/dapphub/dapp)
+  
+## Other cool lists
+  1. [Awesome solidity - resource about solidity](https://github.com/bkrem/awesome-solidity)
+  2. [Awesome ethereum](https://github.com/toadkicker/awesome-ethereum)
   
 
