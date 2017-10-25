@@ -49,6 +49,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   15. [Diving into EVM - series of articles](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
   16. [Basic of solidity opcode and bytecode](https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2)
   17. [Upgradable smart contract](https://medium.com/aigang-network/upgradable-smart-contracts-what-weve-learned-at-aigang-b181d3d4b668)
+  18. [Smart contract interaction](https://www.zupzup.org/smart-contract-interaction/)
   
 ## Improvements
   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
