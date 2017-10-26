@@ -14,6 +14,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   10. [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
   11. [Solidity workshop - detailed resource](https://github.com/androlo/solidity-workshop)
   12. [Youtube channel - detailed course on solidity language](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
+  13. [Web developer, welcome to Ethereum](http://cfd.net.au/article/web-developer-welcome-ethereum-tue-10242017-0307.html)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -56,6 +57,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   2. [Plasma explained in 10min](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
   3. [Raiden 101](https://raiden.network/101.html)
   4. [Smart Contracts on Plasma - Christian Reitwiessner (65 min. presentation)](https://www.youtube.com/watch?v=KzyqzEtEc3I)
+  5. [Casper PoS & Smart Contract Consensus Overview (90 min. overview)](https://www.youtube.com/watch?v=MyDocEQfBGA)
   
 ## Ens
   1. [Devs guide to ENS](https://medium.com/the-ethereum-name-service/a-developers-guide-to-ens-concepts-7004eea8a073)
