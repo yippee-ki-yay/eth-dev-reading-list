@@ -76,6 +76,9 @@ A list of links to articles, tutorials and papers that are helpful for people de
   4. [Embark framework to develop and test dApps](https://github.com/iurimatias/embark-framework)
   5. [HEVM - emv for debugging](https://github.com/dapphub/hevm)
   6. [DAPP - framework for testing and building dApps (lightweight)](https://github.com/dapphub/dapp)
+  7. [Solgraph - Generates a DOT graph that visualizes function control flow of a Solidity contract](https://github.com/raineorshine/solgraph)
+  8. [Solium - Linter to identify and fix style & security issues in Solidity](https://github.com/duaraghav8/Solium)
+  9. [Solidity linter](https://github.com/protofire/solhint)
   
 ## Other cool lists
   1. [Awesome solidity - resource about solidity](https://github.com/bkrem/awesome-solidity)
