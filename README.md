@@ -15,6 +15,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   11. [Solidity workshop - detailed resource](https://github.com/androlo/solidity-workshop)
   12. [Youtube channel - detailed course on solidity language](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
   13. [Web developer, welcome to Ethereum](http://cfd.net.au/article/web-developer-welcome-ethereum-tue-10242017-0307.html)
+  14. [React & Ethereum getting started](https://medium.com/gitconnected/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -30,6 +31,8 @@ A list of links to articles, tutorials and papers that are helpful for people de
   11. [King of the ether exploit](http://www.kingoftheether.com/postmortem.html)
   12. [Guide how to audit solidity contracts](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
   13. [Attacks on ethereum contracts - 30min video and detailed paper](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+  14. [2nd Parity Multisig hack](https://medium.com/chain-cloud-company-blog/parity-multisig-hack-again-b46771eaa838)
+  15. [Smashing the EVM for Fun and Extensibility](https://medium.com/mimir-blockchain/smashing-the-evm-for-fun-and-extensibility-ff36c2d7b389)
 
 ## General
   1. [Ethereum wiki - white paper, yellow paper and just pure gold information about ethereum](https://github.com/ethereum/wiki/wiki)
