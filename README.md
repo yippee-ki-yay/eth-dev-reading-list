@@ -16,6 +16,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   12. [Youtube channel - detailed course on solidity language](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA)
   13. [Web developer, welcome to Ethereum](http://cfd.net.au/article/web-developer-welcome-ethereum-tue-10242017-0307.html)
   14. [React & Ethereum getting started](https://medium.com/gitconnected/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
+  15. [Designing the architecture for your ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -83,6 +84,12 @@ A list of links to articles, tutorials and papers that are helpful for people de
   8. [Solium - Linter to identify and fix style & security issues in Solidity](https://github.com/duaraghav8/Solium)
   9. [Solidity linter](https://github.com/protofire/solhint)
   
+  ## Jobs & bounties
+    1. [Ethlance - dApp for jobs paid in eth](https://ethlance.com/)
+    2. [Gitcoin - bounties for open source projects](https://gitcoin.co/)
+    3. [Status Open Bounties](https://openbounty.status.im/app)
+    4. [Repo for bounty hunts](https://github.com/JGcarv/ethereum-bounty-hunters/issues)
+    5. [Solidified - Auditing platform for smart contracts](https://www.solidified.io/)
 ## Other cool lists
   1. [Awesome solidity - resource about solidity](https://github.com/bkrem/awesome-solidity)
   2. [Awesome ethereum](https://github.com/toadkicker/awesome-ethereum)
