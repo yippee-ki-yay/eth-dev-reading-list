@@ -84,12 +84,13 @@ A list of links to articles, tutorials and papers that are helpful for people de
   8. [Solium - Linter to identify and fix style & security issues in Solidity](https://github.com/duaraghav8/Solium)
   9. [Solidity linter](https://github.com/protofire/solhint)
   
-  ## Jobs & bounties
-    1. [Ethlance - dApp for jobs paid in eth](https://ethlance.com/)
-    2. [Gitcoin - bounties for open source projects](https://gitcoin.co/)
-    3. [Status Open Bounties](https://openbounty.status.im/app)
-    4. [Repo for bounty hunts](https://github.com/JGcarv/ethereum-bounty-hunters/issues)
-    5. [Solidified - Auditing platform for smart contracts](https://www.solidified.io/)
+## Jobs & bounties
+  1. [Ethlance - dApp for jobs paid in eth](https://ethlance.com/)
+  2. [Gitcoin - bounties for open source projects](https://gitcoin.co/)
+  3. [Status Open Bounties](https://openbounty.status.im/app)
+  4. [Repo for bounty hunts](https://github.com/JGcarv/ethereum-bounty-hunters/issues)
+  5. [Solidified - Auditing platform for smart contracts](https://www.solidified.io/)
+  
 ## Other cool lists
   1. [Awesome solidity - resource about solidity](https://github.com/bkrem/awesome-solidity)
   2. [Awesome ethereum](https://github.com/toadkicker/awesome-ethereum)
