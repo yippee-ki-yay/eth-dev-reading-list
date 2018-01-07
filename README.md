@@ -57,13 +57,40 @@ A list of links to articles, tutorials and papers that are helpful for people de
   18. [Smart contract interaction](https://www.zupzup.org/smart-contract-interaction/)
   19. [Ethereum Gas, Fuel and Fees](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
   20. [Calling precomplies from solidity](https://medium.com/@rmercer/precompiles-solidity-e5d29bd428c4)
+  21. [Understanding ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/)
   
 ## Improvements
-  1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
-  2. [Plasma explained in 10min](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
-  3. [Raiden 101](https://raiden.network/101.html)
-  4. [Smart Contracts on Plasma - Christian Reitwiessner (65 min. presentation)](https://www.youtube.com/watch?v=KzyqzEtEc3I)
-  5. [Casper PoS & Smart Contract Consensus Overview (90 min. overview)](https://www.youtube.com/watch?v=MyDocEQfBGA)
+  ### Sharding
+   1. [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649)
+   2. [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
+   3. [Sharding docs](https://github.com/ethereum/sharding/blob/develop/docs/doc.md)
+    
+  ### Plasma
+   1. [White paper](http://plasma.io/)
+   2. [Plasma explained in 10min](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
+   3. [Smart Contracts on Plasma - Christian Reitwiessner (65 min. presentation)](https://www.youtube.com/watch?v=KzyqzEtEc3I)
+   4. [Token contracts on Plasma](https://medium.com/@chriseth/token-contracts-on-plasma-or-a-tale-about-local-and-global-invariants-e37fadba150)
+   5. [Scaling ethereum with plasma - Joseph Poon](https://www.youtube.com/watch?v=plf-kG8jt9c)
+   6. [Reading the plasma withepaper](https://www.youtube.com/watch?v=jvlunzEl_so)
+   7. [BankEx plasma implementation](https://github.com/BankEx/PlasmaETHexchange)
+  
+  ### State channels 
+   1. [Raiden 101](https://raiden.network/101.html)
+   2. [State channels](http://www.jeffcoleman.ca/state-channels/)
+   3. [Fun fair turing complete state channels](https://funfair.io/approach-turing-complete-state-channels-part-1/)
+  
+  ### Proof of Stake
+   1. [Casper PoS & Smart Contract Consensus Overview (90 min. overview)](https://www.youtube.com/watch?v=MyDocEQfBGA)
+   2. [Overview done again with new changes](https://www.youtube.com/watch?v=uQ3IqLDf-oo)
+   3. [PoS FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+   4. [Casper vs Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae?gi=84b66da5939f)
+   5. [Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
+  
+  ### Privacy
+   1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
+   
+  ### General
+   1. [Research discussion forum](https://ethresear.ch/)
   
 ## Ens
   1. [Devs guide to ENS](https://medium.com/the-ethereum-name-service/a-developers-guide-to-ens-concepts-7004eea8a073)
