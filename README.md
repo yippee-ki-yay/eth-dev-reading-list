@@ -60,6 +60,9 @@ A list of links to articles, tutorials and papers that are helpful for people de
   21. [Understanding ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/)
   
 ## Improvements
+  ### Scaling in general
+   1. [Conceptual description of Layer 2 scaling solutions: State channels, Plasma, Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+   
   ### Sharding
    1. [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649)
    2. [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
@@ -73,12 +76,21 @@ A list of links to articles, tutorials and papers that are helpful for people de
    5. [Scaling ethereum with plasma - Joseph Poon](https://www.youtube.com/watch?v=plf-kG8jt9c)
    6. [Reading the plasma withepaper](https://www.youtube.com/watch?v=jvlunzEl_so)
    7. [BankEx plasma implementation](https://github.com/BankEx/PlasmaETHexchange)
+   8. [Minimum Viable Plasma specification and discussion](https://ethresear.ch/t/minimal-viable-plasma/426)
+   9. [OmiseGo Plasma implementation](https://github.com/omisego/plasma-mvp)
+   10. [Central repository for Plasma implementors](https://github.com/ethereum-plasma)
+ 
+# Discussions
   
   ### State channels 
    1. [Raiden 101](https://raiden.network/101.html)
    2. [State channels](http://www.jeffcoleman.ca/state-channels/)
    3. [Fun fair turing complete state channels](https://funfair.io/approach-turing-complete-state-channels-part-1/)
-  
+
+  ### Plasma
+   1. [Plasma chat room on Gitter](https://gitter.im/ethereum/plasma)
+   2. [Plasma implementors video calls](https://www.youtube.com/channel/UCG2MeKuKDJRK4gFNk-dQuZQ)
+
   ### Proof of Stake
    1. [Casper PoS & Smart Contract Consensus Overview (90 min. overview)](https://www.youtube.com/watch?v=MyDocEQfBGA)
    2. [Overview done again with new changes](https://www.youtube.com/watch?v=uQ3IqLDf-oo)
