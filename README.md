@@ -17,7 +17,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   13. [Web developer, welcome to Ethereum](http://cfd.net.au/article/web-developer-welcome-ethereum-tue-10242017-0307.html)
   14. [React & Ethereum getting started](https://medium.com/gitconnected/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
   15. [Designing the architecture for your ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
-  16. [Crypto Zombied](https://cryptozombies.io/)
+  16. [Crypto Zombies](https://cryptozombies.io/)
 
 ## Security 
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
@@ -63,6 +63,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
 ## Improvements
   ### Scaling in general
    1. [Conceptual description of Layer 2 scaling solutions: State channels, Plasma, Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+   2. [Bridges, Plasma and UTXO tokens](https://blog.gridplus.io/bridges-plasma-and-utxo-tokens-e1244c8b1824)
    
   ### Sharding
    1. [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649)
@@ -80,6 +81,9 @@ A list of links to articles, tutorials and papers that are helpful for people de
    8. [Minimum Viable Plasma specification and discussion](https://ethresear.ch/t/minimal-viable-plasma/426)
    9. [OmiseGo Plasma implementation](https://github.com/omisego/plasma-mvp)
    10. [Central repository for Plasma implementors](https://github.com/ethereum-plasma)
+   
+  ### State channels
+   1. [State channels wiki](https://github.com/ledgerlabs/state-channels/wiki)
  
 # Discussions
   
@@ -87,6 +91,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
    1. [Raiden 101](https://raiden.network/101.html)
    2. [State channels](http://www.jeffcoleman.ca/state-channels/)
    3. [Fun fair turing complete state channels](https://funfair.io/approach-turing-complete-state-channels-part-1/)
+   4. [An Introduction to State Channels in Depth](https://www.youtube.com/watch?v=MEL50CVOcH4)
 
   ### Plasma
    1. [Plasma chat room on Gitter](https://gitter.im/ethereum/plasma)
