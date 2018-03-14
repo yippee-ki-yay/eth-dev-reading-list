@@ -59,6 +59,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   19. [Ethereum Gas, Fuel and Fees](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
   20. [Calling precomplies from solidity](https://medium.com/@rmercer/precompiles-solidity-e5d29bd428c4)
   21. [Understanding ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/)
+  22. [Web3-by-Example - Repo of simple scripts for web3](https://github.com/ThatOtherZach/Web3-by-Example)
   
 ## Improvements
   ### Scaling in general
