@@ -35,6 +35,8 @@ A list of links to articles, tutorials and papers that are helpful for people de
   13. [Attacks on ethereum contracts - 30min video and detailed paper](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
   14. [2nd Parity Multisig hack](https://medium.com/chain-cloud-company-blog/parity-multisig-hack-again-b46771eaa838)
   15. [Smashing the EVM for Fun and Extensibility](https://medium.com/mimir-blockchain/smashing-the-evm-for-fun-and-extensibility-ff36c2d7b389)
+  16. [Malicious backdoors in ethereum proxies](https://medium.com/nomic-labs-blog/malicious-backdoors-in-ethereum-proxies-62629adf3357)
+  17. [What fomo3ds real exit scam might look like](https://medium.com/@epheph/what-fomo3ds-real-exit-scam-might-look-like-ac5794f72099)
 
 ## General
   1. [Ethereum wiki - white paper, yellow paper and just pure gold information about ethereum](https://github.com/ethereum/wiki/wiki)
@@ -95,6 +97,8 @@ A list of links to articles, tutorials and papers that are helpful for people de
    2. [State channels](http://www.jeffcoleman.ca/state-channels/)
    3. [Fun fair turing complete state channels](https://funfair.io/approach-turing-complete-state-channels-part-1/)
    4. [An Introduction to State Channels in Depth](https://www.youtube.com/watch?v=MEL50CVOcH4)
+   5. [Counterfactual for dummies](https://medium.com/blockchannel/counterfactual-for-dummies-part-1-8ff164f78540)
+   6. [Etherships and state channels](https://blog.decenter.com/2018/08/07/introducing-etherships-using-state-channels-scale-ethereum-games/)
 
   ### Plasma
    1. [Plasma chat room on Gitter](https://gitter.im/ethereum/plasma)
