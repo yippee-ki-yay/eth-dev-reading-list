@@ -60,6 +60,8 @@ A list of links to articles, tutorials and papers that are helpful for people de
   20. [Calling precomplies from solidity](https://medium.com/@rmercer/precompiles-solidity-e5d29bd428c4)
   21. [Understanding ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/)
   22. [Web3-by-Example - Repo of simple scripts for web3](https://github.com/ThatOtherZach/Web3-by-Example)
+  23. [Ethereum in depth by OpenZeppeling  - Part 1](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833)
+  24. [Ethereum in depth by OpenZeppeling  - Part 2](https://blog.zeppelin.solutions/ethereum-in-depth-part-2-6339cf6bddb9)
   
 ## Improvements
   ### Scaling in general
