@@ -103,6 +103,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   ### Plasma
    1. [Plasma chat room on Gitter](https://gitter.im/ethereum/plasma)
    2. [Plasma implementors video calls](https://www.youtube.com/channel/UCG2MeKuKDJRK4gFNk-dQuZQ)
+   3. [Learn Plasma - website explaining Plasma](http://www.learnplasma.org/docs/intro.html)
 
   ### Proof of Stake
    1. [Casper PoS & Smart Contract Consensus Overview (90 min. overview)](https://www.youtube.com/watch?v=MyDocEQfBGA)
