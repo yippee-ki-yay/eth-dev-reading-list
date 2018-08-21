@@ -18,8 +18,9 @@ A list of links to articles, tutorials and papers that are helpful for people de
   14. [React & Ethereum getting started](https://medium.com/gitconnected/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
   15. [Designing the architecture for your ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
   16. [Crypto Zombies](https://cryptozombies.io/)
+  17. [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 
-## Security 
+## Security
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
   2. [ConsenSys best practices](https://github.com/ConsenSys/smart-contract-best-practices)
   3. [Zeppelin smart contract security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
@@ -64,17 +65,17 @@ A list of links to articles, tutorials and papers that are helpful for people de
   22. [Web3-by-Example - Repo of simple scripts for web3](https://github.com/ThatOtherZach/Web3-by-Example)
   23. [Ethereum in depth by OpenZeppeling  - Part 1](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833)
   24. [Ethereum in depth by OpenZeppeling  - Part 2](https://blog.zeppelin.solutions/ethereum-in-depth-part-2-6339cf6bddb9)
-  
+
 ## Improvements
   ### Scaling in general
    1. [Conceptual description of Layer 2 scaling solutions: State channels, Plasma, Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
    2. [Bridges, Plasma and UTXO tokens](https://blog.gridplus.io/bridges-plasma-and-utxo-tokens-e1244c8b1824)
-   
+
   ### Sharding
    1. [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649)
    2. [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
    3. [Sharding docs](https://github.com/ethereum/sharding/blob/develop/docs/doc.md)
-    
+
   ### Plasma
    1. [White paper](http://plasma.io/)
    2. [Plasma explained in 10min](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
@@ -86,13 +87,13 @@ A list of links to articles, tutorials and papers that are helpful for people de
    8. [Minimum Viable Plasma specification and discussion](https://ethresear.ch/t/minimal-viable-plasma/426)
    9. [OmiseGo Plasma implementation](https://github.com/omisego/plasma-mvp)
    10. [Central repository for Plasma implementors](https://github.com/ethereum-plasma)
-   
+
   ### State channels
    1. [State channels wiki](https://github.com/ledgerlabs/state-channels/wiki)
- 
+
 # Discussions
-  
-  ### State channels 
+
+  ### State channels
    1. [Raiden 101](https://raiden.network/101.html)
    2. [State channels](http://www.jeffcoleman.ca/state-channels/)
    3. [Fun fair turing complete state channels](https://funfair.io/approach-turing-complete-state-channels-part-1/)
@@ -111,13 +112,13 @@ A list of links to articles, tutorials and papers that are helpful for people de
    3. [PoS FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
    4. [Casper vs Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae?gi=84b66da5939f)
    5. [Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
-  
+
   ### Privacy
    1. [Introduction to zk-snarks](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
-   
+
   ### General
    1. [Research discussion forum](https://ethresear.ch/)
-  
+
 ## Ens
   1. [Devs guide to ENS](https://medium.com/the-ethereum-name-service/a-developers-guide-to-ens-concepts-7004eea8a073)
   2. [Ens docs](https://docs.ens.domains/en/latest/)
@@ -127,7 +128,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   1. [Introduction to ipfs, overview and technical stuff](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
   2. [Short 10min high level overview of IPFS](https://www.youtube.com/watch?v=BA2rHlbB5i0)
   3. [Distributed apps with ipfs 40min lecture by creator](https://www.youtube.com/watch?v=jONZtXMu03w)
-  
+
 ## Tools
   1. [Remix online IDE](https://remix.ethereum.org/)
   2. [Metamask - browser plugin to conect with ethereum](https://metamask.io/)
@@ -138,7 +139,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   7. [Solgraph - Generates a DOT graph that visualizes function control flow of a Solidity contract](https://github.com/raineorshine/solgraph)
   8. [Solium - Linter to identify and fix style & security issues in Solidity](https://github.com/duaraghav8/Solium)
   9. [Solidity linter](https://github.com/protofire/solhint)
-  
+
 ## Explorers and Stats
   1. [Etherscan](https://etherscan.io/)
   2. [Etherchain](https://www.etherchain.org/)
@@ -147,16 +148,16 @@ A list of links to articles, tutorials and papers that are helpful for people de
   5. [Dapp radar - list of dapps with stats](https://dappradar.com/)
   6. [Dapp track - list of dapps with stats](https://dapptrack.com/)
   7. [World of contracts - Interface for interacting with smart contracts](https://yippee-ki-yay.github.io/WorldOfContracts/)
-  
+
 ## Jobs & bounties
   1. [Ethlance - dApp for jobs paid in eth](https://ethlance.com/)
   2. [Gitcoin - bounties for open source projects](https://gitcoin.co/)
   3. [Status Open Bounties](https://openbounty.status.im/app)
   4. [Repo for bounty hunts](https://github.com/JGcarv/ethereum-bounty-hunters/issues)
   5. [Solidified - Auditing platform for smart contracts](https://www.solidified.io/)
-  
+
 ## Other cool lists
   1. [Awesome solidity - resource about solidity](https://github.com/bkrem/awesome-solidity)
   2. [Awesome ethereum](https://github.com/toadkicker/awesome-ethereum)
-  
+
 
