@@ -19,6 +19,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   15. [Designing the architecture for your ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
   16. [Crypto Zombies](https://cryptozombies.io/)
   17. [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
+  18. [Ethereum Development with Go](https://goethereumbook.org/)
 
 ## Security
   1. [Solidity docs security considerations](https://solidity.readthedocs.io/en/develop/security-considerations.html)
