@@ -91,6 +91,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
 
   ### State channels
    1. [State channels wiki](https://github.com/ledgerlabs/state-channels/wiki)
+   2. [Learn channels](https://www.learnchannels.org/)
 
 # Discussions
 
