@@ -161,5 +161,6 @@ A list of links to articles, tutorials and papers that are helpful for people de
 ## Other cool lists
   1. [Awesome solidity - resource about solidity](https://github.com/bkrem/awesome-solidity)
   2. [Awesome ethereum](https://github.com/toadkicker/awesome-ethereum)
+  3. [Awesome makerdao](https://github.com/makerdao/awesome-makerdao/blob/master/README.md)
 
 
