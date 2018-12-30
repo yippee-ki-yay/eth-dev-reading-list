@@ -66,6 +66,7 @@ A list of links to articles, tutorials and papers that are helpful for people de
   22. [Web3-by-Example - Repo of simple scripts for web3](https://github.com/ThatOtherZach/Web3-by-Example)
   23. [Ethereum in depth by OpenZeppeling  - Part 1](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833)
   24. [Ethereum in depth by OpenZeppeling  - Part 2](https://blog.zeppelin.solutions/ethereum-in-depth-part-2-6339cf6bddb9)
+  25. [Ethereum explained by Pegasus team](https://pegasys.tech/ethereum-explained-merkle-trees-world-state-transactions-and-more/)
 
 ## Improvements
   ### Scaling in general
